@@ -20,3 +20,13 @@
 **Link(s) to work**
 1. [jQuery Events](https://api.jquery.com/category/events/)
 2. [Random Quote Machine' Pen](https://codepen.io/mrassili/pen/wPxpgL)
+
+### Day 3: January 16, Tuesday
+
+**Today's Progress**: Did the final touches to my Random Quote Machine design, will then establish a media query for mobile view.
+
+**Thoughts** Trying to keep it simple and not get lost in design aspect of the project.
+
+**Link(s) to work**
+1. [Media Queries](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+2. [Random Quote Machine' Pen](https://codepen.io/mrassili/pen/wPxpgL)
